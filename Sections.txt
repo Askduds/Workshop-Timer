@@ -1,0 +1,22 @@
+Backlog Refinement PREP
+60
+Backlog Refinement
+120
+Sprint Planning PREP
+60
+Sprint Planning
+120
+Sprint PREP
+60
+Sprint 1
+300
+Retrospective PREP
+60
+Sprint Demo PREP
+30
+Sprint Demo
+60
+Retrospective PREP
+30
+Retrospective
+120
